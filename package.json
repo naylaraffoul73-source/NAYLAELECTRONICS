@@ -1,0 +1,13 @@
+{
+  "name": "nayla-electronics",
+  "version": "1.0.0",
+  "description": "Nayla Electronics - Next-Gen Tech & Electronics Store",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["electronics", "ecommerce", "gadgets", "tech-store"],
+  "author": "Nayla Raffoul",
+  "license": "MIT"
+}
